@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for <strong><em>Kariera</strong></em>
+- 🔭 I’m currently working for <strong><em>Timberhub</strong></em>
 - 🌱 I’m currently focusing on React, Next and testing different UI frameworks.
 - 👯 I’m looking to collaborate on anything <strong><em>FrontEnd JS based</em></strong> related
 - 📫 How to reach me: ionpetro@gmail.com
